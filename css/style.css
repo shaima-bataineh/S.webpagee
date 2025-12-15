@@ -10,8 +10,7 @@ h1 {
   font-size: 28px;
                 }
 
-.light{ color:#7A85C1;
-       font-weight:600;
+.light{ color:# 7A85C1;
        text-shadow: 3px 3px 6px rgba(0,0,0,0.4); 
        font-weight: bold;
       }
