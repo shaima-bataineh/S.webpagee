@@ -12,19 +12,19 @@ h1 {
 } 
 
 .light {
-  color: #7A85C1;
+  color: #452829;
   font-weight: bold;
 }
 
 p {
   max-width: 600px;
   margin: 20px auto;
-  color: #B2B0E8;
+  color: #636CCB;
   line-height: 1.6;
 }
 
 strong {
-  color: #7A73D1;
+  color: #FAAC68;
 }
 
 .img {
@@ -33,7 +33,7 @@ strong {
 
 .button {
   padding: 10px 25px;
-  background-color: #007bff;
+  background-color: #93BFC7;
   color: white;
   text-align: center;
   border: none;
