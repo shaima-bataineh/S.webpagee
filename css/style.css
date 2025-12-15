@@ -13,7 +13,9 @@ h1 {
 
 .light{ color:7A85C1;
        font-weight:600;
-                       }
+       text-shadow: 3px 3px 6px rgba(0,0,0,0.4); 
+       font-weight: bold;
+      }
 p {
   max-width: 600px;
   margin: 20px auto;
