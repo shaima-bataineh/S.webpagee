@@ -33,7 +33,7 @@ strong {
 
 .button {
   padding: 10px 25px;
-  background-color: #63C8FF;
+  background-color: #0056b3;
   color: white;
   text-align: center;
   border: none;
@@ -43,7 +43,7 @@ strong {
   transition: transform 0.3s, background-color 0.3s;
 }
 
-.button:hover {
-  background-color: #0056b3;
+.button:hover {0056b3
+  background-color: #63C8FF;
   transform: scale(1.1);  
 }
