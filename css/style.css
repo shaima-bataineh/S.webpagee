@@ -10,18 +10,18 @@ h1 {
   font-size: 28px;
 } 
 
-.light{ color:# 7A85C1;
+.light{ color:#7A85C1;
      
        font-weight: bold;
       }
 p {
-  max-width: 600px;
+  max-width: #600px;
   margin: 20px auto;
-  color: B2B0E8;
+  color: #B2B0E8;
   line-height: 1.6;
 }
 strong {
-    color: 7A73D1; 
+    color: #7A73D1; 
 }
 .img{ margin: 20px 0; }
 
